@@ -17,6 +17,12 @@
   - Advisor: [Dr. Ji-Hong Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=FHFpbXKRXex%2BGHLRSDmrWg%3D%3D&sosokcd=0000131)
 
 ### Research Interests ✒️
+- 💥Computational Social Science
+- 💥Digital Humanities
+- 💥Text Mining (Discourse analysis, Comparative text mining)
+- 💥Knowledge Organization (Comparative metadata analysis)
+- 💥Data Curation (Data reuse and sharing)
+
 
 You can use the [editor on GitHub](https://github.com/91jpark19/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
