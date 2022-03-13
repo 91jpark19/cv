@@ -1,4 +1,4 @@
-# 📖 📰  👉  💻 📂
+# 📖 📰 ⚡ 💻 📂
 
 ## **Jaihyun Park**
 
@@ -15,6 +15,8 @@
   - Bachelor of Arts in Library and Information Science
   - Bachelor of Arts in Political Science and Diplomacy
   - Advisor: [Dr. Ji-Hong Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=FHFpbXKRXex%2BGHLRSDmrWg%3D%3D&sosokcd=0000131)
+
+### Research Interests ✒️
 
 You can use the [editor on GitHub](https://github.com/91jpark19/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
