@@ -1,6 +1,6 @@
 # 📖 📰 ⚡ 💻 📂
 
-### [**Jaihyun Park**](https://ischool.illinois.edu/people/jaihyun-park)(박재현)
+### [**Jaihyun Park**](https://ischool.illinois.edu/people/jaihyun-park) (박재현)
 
 ### Education 🎓
 
