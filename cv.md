@@ -1,6 +1,20 @@
-## 📘 🗞️ 📰 💻 📂  
-😃
-# Jaihyun Park
+# 📖 📰  👉  💻 📂
+
+## **Jaihyun Park**
+
+### Education 🎓
+
+- [ ] University of Illinois Urbana-Champaign
+  - Ph.D. Student in Information Sciences
+  - Advisor: [Dr. Ryan Cordell](https://ischool.illinois.edu/people/ryan-cordell)  
+- [X] Syracuse University
+  - Master's in Library and Information Science
+  - Certificate of Advanced Study in Data Science  
+  - Advisor: [Dr. Jian Qin](https://ischool.syr.edu/jian-qin/)
+- [X] Yonsei University 
+  - Bachelor of Arts in Library and Information Science
+  - Bachelor of Arts in Political Science and Diplomacy
+  - Advisor: [Dr. Ji-Hong Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=FHFpbXKRXex%2BGHLRSDmrWg%3D%3D&sosokcd=0000131)
 
 You can use the [editor on GitHub](https://github.com/91jpark19/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
