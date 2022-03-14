@@ -1,5 +1,6 @@
 # 📖 📰 ⚡ 💻 📂
 
+
 ### [**Jaihyun Park**](https://ischool.illinois.edu/people/jaihyun-park) (박재현)
 
 ### Education 🎓
@@ -51,37 +52,3 @@ Park, J. (2014). Advancing Collection Quality to Modernize Libraries – Through
 Kallenback, J. (2020). Library Students greatly impact CU. The Daily Illini. 👉 [paper](https://dailyillini.com/features/2020/11/11/library-students-greatly-impact-cu/)
 
 > Jaihyun Park, doctoral candidate in LIS, says the use of computational tools in library science can make it easier for people to process information on digital platforms. “It takes a lot of time and a lot of human effort to consume and digest the information inside a book,” Park said. Using computational tools like text mining can help pull the most important information from resources and improve results when searching through online databases. “Understanding the language of people is really crucial in terms of diminishing the gaps between what users need and how the database or search engine understands,” Park said. “That’s the place where computational tools and library science overlap.” Park sees the role of libraries as distributing credible information and fighting back against misinformation. The quality of being interdisciplinary also characterizes library and information science. Park has a background in political science, and he studies the language of politicians and people involved in the conflict to see if that language overlaps and to reduce cognitive dissonance. “Library and information science only seems like talking about libraries, archives and data centers, but it can be applied to every field,” Park said. “Depending on what you’re interested in and how you want to organize that information, I think that’s a possibility where I see library and information science can be expanded.”
-
-htmltools::includeHTML()
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/91jpark19/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
