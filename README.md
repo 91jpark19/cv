@@ -1,7 +1,7 @@
-# 📖 📰 ⚡ 💻 📂
+# 📖📰⚡💻📂
 
 
-### [**Jaihyun Park**](https://ischool.illinois.edu/people/jaihyun-park) (박재현)
+### [**Jaihyun Park**](https://ischool.illinois.edu/people/jaihyun-park) 
 
 ### Education 🎓
 
@@ -13,8 +13,8 @@
   - Certificate of Advanced Study in Data Science  
   - Advisor: [Dr. Jian Qin](https://ischool.syr.edu/jian-qin/)
 - [X] Yonsei University (2010-2017)
-  - Bachelor of Arts in Library and Information Science (문헌정보학)
-  - Bachelor of Arts in Political Science and Diplomacy (정치외교학)
+  - Bachelor of Arts in Library and Information Science 
+  - Bachelor of Arts in Political Science and International Studies 
   - Advisor: [Dr. Ji-Hong Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=FHFpbXKRXex%2BGHLRSDmrWg%3D%3D&sosokcd=0000131)
 
 ### Research Interests ✒️
