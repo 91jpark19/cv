@@ -52,6 +52,7 @@ Kallenback, J. (2020). Library Students greatly impact CU. The Daily Illini. �
 
 > Jaihyun Park, doctoral candidate in LIS, says the use of computational tools in library science can make it easier for people to process information on digital platforms. “It takes a lot of time and a lot of human effort to consume and digest the information inside a book,” Park said. Using computational tools like text mining can help pull the most important information from resources and improve results when searching through online databases. “Understanding the language of people is really crucial in terms of diminishing the gaps between what users need and how the database or search engine understands,” Park said. “That’s the place where computational tools and library science overlap.” Park sees the role of libraries as distributing credible information and fighting back against misinformation. The quality of being interdisciplinary also characterizes library and information science. Park has a background in political science, and he studies the language of politicians and people involved in the conflict to see if that language overlaps and to reduce cognitive dissonance. “Library and information science only seems like talking about libraries, archives and data centers, but it can be applied to every field,” Park said. “Depending on what you’re interested in and how you want to organize that information, I think that’s a possibility where I see library and information science can be expanded.”
 
+htmltools::includeHTML()
 
 ### Markdown
 
